@@ -5,6 +5,10 @@
 --!>
 
 - 🔭 I’m currently working on database area.
+<br/>
 - 🌱 I’m currently learning SQL.
+<br/>
 - 👯 I’m looking to collaborate on opensource projects and others.
+<br/>
 - 📫 How to reach me: @sofiabvidal on Instagram.
+<br/>
